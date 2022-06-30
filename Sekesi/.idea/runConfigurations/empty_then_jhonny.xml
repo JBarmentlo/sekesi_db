@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="empty then jhonny" type="DatabaseScript" editBeforeRun="true">
+    <script-file value="$PROJECT_DIR$/empty_users.sql" />
+    <script-file value="$PROJECT_DIR$/create_joni.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="443ee21f-36cb-42d7-9d89-572200d77c60" namespace="schema/&quot;sekesidb&quot;" />
+    <method v="2" />
+  </configuration>
+</component>
